@@ -49,7 +49,7 @@ jobs:
 
   dependency-submission:
 
-    runs-on: ubuntu-latest
+    runs-on: ubuntu-latested
     permissions:
       contents: write
 
